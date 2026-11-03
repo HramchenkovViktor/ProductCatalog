@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "name": "MacBook Pro",
+      "price": 2499,
+      "in_stock": true
+    },
+    {
+      "name": "iPhone 17",
+      "price": 999,
+      "in_stock": false
+    },
+    {
+      "name": "iPad Air",
+      "price": 799,
+      "in_stock": true
+    }
+  ]
+}
